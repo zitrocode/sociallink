@@ -1,5 +1,5 @@
 .text-item {
-  width: 80%;
+  width: 90%;
   margin: auto;
   color: #d8d8d8;
   text-align: center;
@@ -7,4 +7,10 @@
   font-style: italic;
   font-size: 16px;
   margin-bottom: 8px;
+}
+
+@media only screen and (min-width: 768px) {
+  .text-item {
+    width: 80%;
+  }
 }

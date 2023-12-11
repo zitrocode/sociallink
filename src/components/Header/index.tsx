@@ -5,6 +5,7 @@ import "./header.style.css";
 import ToggleLang from "../ToggleLang";
 
 import profile from "../../profile.json";
+import { SocialIcon } from "react-social-icons";
 
 const Header = () => {
   const { getTranslate } = useContext(AppContext);
@@ -27,6 +28,22 @@ const Header = () => {
           <h1 className="header--title">{profile.name}</h1>
           <p className="header-description">{getTranslate.description}</p>
         </div>
+      </div>
+
+      <div className="header--link">
+        {profile.links.map((link, index) => {
+          return (
+            <SocialIcon
+              key={index}
+              style={{ width: "35px" }}
+              href={link.url}
+              target="_blank"
+              url={link.url}
+              bgColor="none"
+              className="link--colorscheme"
+            />
+          );
+        })}
       </div>
     </div>
   );

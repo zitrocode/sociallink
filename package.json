@@ -1,7 +1,10 @@
 {
   "name": "links",
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "author": {
+    "name": "Oscar Ortiz",
+    "email": "dev.oscarortiz@gmail.com"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -12,7 +15,8 @@
   "dependencies": {
     "iconoir-react": "^7.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-social-icons": "^6.7.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",

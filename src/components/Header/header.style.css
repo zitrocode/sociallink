@@ -7,6 +7,7 @@
   margin-bottom: 45px;
 
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
 
@@ -16,12 +17,12 @@
 }
 
 .header>.header--content {
-  width: 800%;
+  width: 100%;
   max-width: 500px;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 30px;
+  gap: 25px;
 }
 
 .header>.header--content>.header--image {
@@ -32,6 +33,18 @@
 
 .header--content>.header--info {
   color: white;
+}
+
+.header>.header--link {
+  position: absolute;
+  bottom: 40px;
+  width: 100%;
+  max-width: 500px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
 }
 
 @media only screen and (min-width: 768px) {

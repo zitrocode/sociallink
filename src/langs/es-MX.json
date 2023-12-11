@@ -1,5 +1,5 @@
 {
-  "description": "Desarrollador Full-Stack y Diseñador UI/UX, apasionado por el Código Abierto.",
+  "description": "Desarrollador Full-Stack y Diseñador UI, apasionado por el Código Abierto.",
   "groups": [
     {
       "name": "Proyecto Más Reciente",
@@ -11,36 +11,6 @@
           "image": {
             "url": "https://img.itch.zone/aW1nLzE0MTc4Nzc3LnBuZw==/original/%2BbPXro.png"
           }
-        }
-      ]
-    },
-    {
-      "name": "Redes Sociales",
-      "description": "No te pierdas mis proyectos y contenido. Sígueme en mis otras redes sociales para estar informado de todo. 👨‍💻",
-      "links": [
-        {
-          "name": "Blog",
-          "url": "https://medium.com/@zitrocode"
-        },
-        {
-          "name": "Twitch",
-          "url": "https://twitch.tv/zitrocode"
-        },
-        {
-          "name": "TikTok",
-          "url": "https://www.tiktok.com/@zitrocode"
-        },
-        {
-          "name": "Twitter",
-          "url": "https://twitter.com/zitrocode"
-        },
-        {
-          "name": "YouTube",
-          "url": "https://youtube.com/@zitrocode"
-        },
-        {
-          "name": "Instagram",
-          "url": "https://instagram.com/zitrocode"
         }
       ]
     },
@@ -64,6 +34,10 @@
         {
           "name": "Patrocinador de GitHub",
           "url": "https://github.com/sponsors/zitrocode"
+        },
+        {
+          "name": "Buy Me A Coffee",
+          "url": "https://www.buymeacoffee.com/zitrocode"
         }
       ]
     }
