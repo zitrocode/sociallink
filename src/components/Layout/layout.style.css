@@ -1,0 +1,19 @@
+.wrapper {
+  width: 100%;
+  height: auto;
+
+  display: flex;
+  justify-content: center;
+}
+
+.center {
+  width: 90%;
+}
+
+@media only screen and (min-width: 768px) {
+  .wrapper {
+    width: 50%;
+    max-width: 700px;
+    margin: auto;
+  }
+}

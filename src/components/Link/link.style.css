@@ -1,0 +1,37 @@
+.link-item {
+  width: 100%;
+  display: block;
+
+  padding: 15px 30px;
+
+  font-weight: 600;
+  text-align: center;
+  text-decoration: none;
+
+  transition: all 0.15s ease-in-out;
+
+  color: #888888;
+  border-radius: 8px;
+  border: 1px solid #222222;
+  background-color: transparent;
+}
+
+.link-item:hover {
+  color: #FFFFFF;
+  background: #222222;
+}
+
+.link-item--image {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.link-item--image>img {
+  width: 100%;
+  transition: all 0.15s ease-in-out;
+  border-radius: 8px;
+}
+
+.link-item--image>img:hover {
+  transform: scale(1.2);
+}

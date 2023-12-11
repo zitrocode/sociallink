@@ -1,0 +1,71 @@
+{
+  "description": "Full-Stack Developer & UI/UX Designer, passionate about Open Source.",
+  "groups": [
+    {
+      "name": "Latest Project",
+      "description": "Welcome to Pixelino, where creativity in pixel art and animation comes to life!✨",
+      "links": [
+        {
+          "name": "Banner Pixelino",
+          "url": "https://zitrocodee.itch.io/pixelino",
+          "image": {
+            "url": "https://img.itch.zone/aW1nLzE0MTc4Nzc3LnBuZw==/original/%2BbPXro.png"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Social Networks",
+      "description": "Don't miss out on my projects and content. Follow me on my other social media channels to stay informed about everything! 👨‍💻",
+      "links": [
+        {
+          "name": "Blog",
+          "url": "https://medium.com/@zitrocode"
+        },
+        {
+          "name": "Twitch",
+          "url": "https://twitch.tv/zitrocode"
+        },
+        {
+          "name": "Tik Tok",
+          "url": "https://www.tiktok.com/@zitrocode"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/zitrocode"
+        },
+        {
+          "name": "YouTube",
+          "url": "https://youtube.com/@zitrocode"
+        },
+        {
+          "name": "Instagram",
+          "url": "https://instagram.com/zitrocode"
+        }
+      ]
+    },
+    {
+      "name": "Let's Work Together",
+      "links": [
+        {
+          "name": "Contact me",
+          "url": "mailto:dev.oscarortiz@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Support My Projects",
+      "description": "Join my creative journey! ✨ Support my projects and let's make the magic happen together. Your contribution makes a difference! 🚀",
+      "links": [
+        {
+          "name": "PayPal",
+          "url": "https://paypal.me/zitrocode"
+        },
+        {
+          "name": "GitHub Sponsor",
+          "url": "https://github.com/sponsors/zitrocode"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+.text-item {
+  width: 80%;
+  margin: auto;
+  color: #d8d8d8;
+  text-align: center;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 16px;
+  margin-bottom: 8px;
+}

@@ -1,0 +1,37 @@
+.toggleLang-content {
+  position: absolute;
+  height: auto;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20px;
+
+  top: 25px;
+  right: 25px;
+}
+
+.toggleLang-content>span {
+  color: #FFFFFF;
+  text-transform: capitalize;
+}
+
+.toggleLang-content>.button {
+  width: 40px;
+  height: 40px;
+
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: #888888;
+  border-radius: 8px;
+  border: 1px solid #222222;
+  background-color: #020103;
+}
+
+.toggleLang-content>.button:hover {
+  color: #FFFFFF;
+  background-color: #222222;
+}

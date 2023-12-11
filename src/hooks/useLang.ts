@@ -1,0 +1,41 @@
+import { useState } from "react";
+
+import english from "../langs/en-US.json";
+import spanish from "../langs/es-MX.json";
+
+export interface ILanguageOptions {
+  description: string;
+  groups: {
+    name: string;
+    description?: string;
+    links: {
+      name: string;
+      url: string;
+      image?: {
+        url?: string;
+      };
+    }[];
+  }[];
+}
+
+type ILanguage = "english" | "spanish";
+
+const useLang = () => {
+  const [language, setLanguage] = useState<ILanguage>("english");
+
+  const toggleChangeLanguage = () => {
+    if (language === "english") {
+      setLanguage("spanish");
+      return;
+    }
+
+    setLanguage("english");
+  };
+
+  const getTranslate: ILanguageOptions =
+    language === "english" ? english : spanish;
+
+  return { language, getTranslate, toggleChangeLanguage };
+};
+
+export default useLang;
