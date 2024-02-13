@@ -4,7 +4,7 @@ import AppContext from "../../Contexts/AppContext";
 import "./header.style.css";
 import ToggleLang from "../ToggleLang";
 
-import profile from "../../profile.json";
+import profile from "../../../profile/info.json";
 import { SocialIcon } from "react-social-icons";
 
 const Header = () => {

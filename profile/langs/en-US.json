@@ -1,9 +1,9 @@
 {
-  "description": "Desarrollador Full-Stack y Diseñador UI, apasionado por el Código Abierto.",
+  "description": "Full-Stack Developer & UI Designer, passionate about Open Source.",
   "groups": [
     {
-      "name": "Proyecto Más Reciente",
-      "description": "¡Bienvenido a Pixelino, donde la creatividad en arte pixelado y animación cobra vida! ✨",
+      "name": "Latest Project",
+      "description": "Welcome to Pixelino, where creativity in pixel art and animation comes to life!✨",
       "links": [
         {
           "name": "Banner Pixelino",
@@ -15,24 +15,25 @@
       ]
     },
     {
-      "name": "Trabajemos Juntos",
+      "name": "Let's Work Together",
+      "description": "Got a project in mind? Tell me! I'm ready to collaborate with you. 🚀",
       "links": [
         {
-          "name": "Contáctame",
+          "name": "Contact me",
           "url": "mailto:dev.oscarortiz@gmail.com"
         }
       ]
     },
     {
-      "name": "Apoya Mis Proyectos",
-      "description": "¡Únete a mi viaje creativo! ✨ Apoya mis proyectos y hagamos magia juntos. ¡Tu contribución marca la diferencia! 🚀",
+      "name": "Support My Projects",
+      "description": "Join my creative journey! ✨ Support my projects and let's make the magic happen together. Your contribution makes a difference! 🚀",
       "links": [
         {
           "name": "PayPal",
           "url": "https://paypal.me/zitrocode"
         },
         {
-          "name": "Patrocinador de GitHub",
+          "name": "GitHub Sponsor",
           "url": "https://github.com/sponsors/zitrocode"
         },
         {

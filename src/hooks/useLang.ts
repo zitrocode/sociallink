@@ -1,7 +1,7 @@
 import { useState } from "react";
 
-import english from "../langs/en-US.json";
-import spanish from "../langs/es-MX.json";
+import english from "../../profile/langs/en-US.json";
+import spanish from "../../profile/langs/es-MX.json";
 
 export interface ILanguageOptions {
   description: string;
