@@ -5,33 +5,37 @@
     "cover": "https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
   },
   "links": [
-    {
-      "name": "Medium",
-      "url": "https://medium.com/@zitrocode"
+     {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/zitrocode/"
     },
     {
-      "name": "Youtube",
-      "url": "https://youtube.com/@zitrocode"
+      "name": "Github",
+      "url": "https://github.com/zitrocode"
     },
     {
       "name": "Twitch",
       "url": "https://www.twitch.tv/zitrocode"
     },
     {
-      "name": "Twitter",
-      "url": "https://twitter.com/zitrocode"
-    },
-    {
       "name": "Instagram",
       "url": "https://instagram.com/zitrocode"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/zitrocode"
     },
     {
       "name": "Tiktok",
       "url": "https://www.tiktok.com/@zitrocode"
     },
     {
-      "name": "Github",
-      "url": "https://github.com/zitrocode"
-    }
+      "name": "Youtube",
+      "url": "https://youtube.com/@zitrocode"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@zitrocode"
+    },
   ]
 }
